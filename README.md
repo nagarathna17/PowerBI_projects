@@ -1,4 +1,4 @@
-# PowerBI_projects
+# PowerBI_projects_Sales_analysis
 Power BI dashboards 
 
 A dashboard created by connecting the database from excel and later analysing the relations between the three tables. 
